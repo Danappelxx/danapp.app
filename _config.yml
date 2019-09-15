@@ -1,7 +1,6 @@
 theme: jekyll-theme-minimal
 title: Dan Appel
 logo: portrait.png
-include: [".well-known"]
 github:
   is_project_page: False
   is_user_page: True

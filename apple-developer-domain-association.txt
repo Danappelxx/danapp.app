@@ -1,3 +1,7 @@
+---
+layout: none
+permalink: .well-known/apple-developer-domain-association.txt
+---
 MIIP1wYJKoZIhvcNAQcCoIIPyDCCD8QCAQExCzAJBgUrDgMCGgUAMGwGCSqGSIb3DQEHAaBfBF17
 InRlYW1JZCI6IkI3NkxVNkVRNEUiLCJkb21haW4iOiJkYW5hcHAuYXBwIiwiZGF0ZUNyZWF0ZWQi
 OiIyMDE5LTA5LTE1LDA0OjM2OjQ4IiwidmVyc2lvbiI6MX2gggyyMIID8zCCAtugAwIBAgIBFzAN
