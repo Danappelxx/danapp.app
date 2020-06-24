@@ -26,7 +26,7 @@ body {
     margin: 0;
 }
 
-.footer, .site-wrap:after {
+.site-wrap:after {
     height: 0px;
 }
 /* Still hate css */
@@ -54,10 +54,14 @@ body {
     object-fit: contain;
 }
 
-@media (max-width: 40em) {
+@media screen and (max-width: 40em) {
     .portrait-container {
         max-width: 100%;
         padding-left: 0rem;
         padding-right: 0rem;
     }
+}
+
+.post {
+    padding-top: 0;
 }
