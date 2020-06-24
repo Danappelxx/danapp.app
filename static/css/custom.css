@@ -25,6 +25,10 @@ body {
     height: initial;
     margin: 0;
 }
+
+.footer, .site-wrap:after {
+    height: 0px;
+}
 /* Still hate css */
 
 .social-links a {
@@ -37,4 +41,23 @@ body {
 
 .social-links a:hover {
     opacity: 1;
+}
+
+/* Portrait */
+.portrait-container {
+    max-width: 70%;
+    margin: 0 auto;
+    padding: 1rem;
+}
+
+.portrait-container img {
+    object-fit: contain;
+}
+
+@media (max-width: 40em) {
+    .portrait-container {
+        max-width: 100%;
+        padding-left: 0rem;
+        padding-right: 0rem;
+    }
 }
