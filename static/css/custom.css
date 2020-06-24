@@ -1,0 +1,40 @@
+/* I hate css */
+html, body {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.site-wrap {
+    flex: 1 0 auto;
+    margin: initial;
+    min-height: initial;
+}
+
+.site-header {
+    padding-top: 2rem;
+}
+
+.footer {
+    flex-shrink: 0;
+    padding: 1rem;
+    height: initial;
+    margin: 0;
+}
+/* Still hate css */
+
+.social-links a {
+    color: inherit;
+    font-size: 1.2em;
+    padding-left: 10px;
+    opacity: 0.8;
+    transition: opacity 0.1s ease-in-out;
+}
+
+.social-links a:hover {
+    opacity: 1;
+}

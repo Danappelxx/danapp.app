@@ -1,0 +1,15 @@
+<div class="social-links">
+    <a href="/index.xml">
+        <i class="fa fa-rss"></i>
+    </a>
+    {{ if isset .Site.Params "twitter_username" }}
+        <a href="https://twitter.com/{{ .Site.Params.twitter_username }}">
+            <i class="fa fa-twitter"></i>
+        </a>
+    {{ end }}
+    {{ if isset .Site.Params "github_username" }}
+        <a href="https://github.com/{{ .Site.Params.github_username }}">
+            <i class="fa fa-github"></i>
+        </a>
+    {{ end }}
+</div>

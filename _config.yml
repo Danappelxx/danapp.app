@@ -1,7 +1,0 @@
-theme: jekyll-theme-minimal
-title: Dan Appel
-logo: portrait.png
-github:
-  is_project_page: False
-  is_user_page: True
-  project_tagline: "CS at UC Irvine"

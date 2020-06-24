@@ -1,0 +1,12 @@
+baseURL = "https://danapp.app/"
+languageCode = "en-us"
+author = "Dan Appel"
+title = "Dan Appel"
+enableEmoji = true
+theme = "pixyll"
+
+[params]
+# search_engine = true
+# google_analytics_id = ""
+  twitter_username = "dan_appel"
+  github_username = "danappelxx"
