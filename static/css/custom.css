@@ -65,3 +65,17 @@ body {
 .post {
     padding-top: 0;
 }
+
+/* Syntax highlighting for single line */
+p code {
+    font-size: 0.9rem;
+    background-color: #f3f3f3;
+    padding: 0.1rem;
+}
+
+h2 {
+    font-size: 2rem;
+}
+h3 {
+    font-size: 1.5rem;
+}
