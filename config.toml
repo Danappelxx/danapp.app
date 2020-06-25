@@ -1,15 +1,10 @@
 baseURL = "https://danapp.app/"
 languageCode = "en-us"
 author = "Dan Appel"
-description = "Blog and homepage"
+description = "Dan Appel's blog and homepage"
 title = "Dan Appel"
 enableEmoji = true
 theme = "pixyll"
-
-[sitemap]
-  changefreq = "monthly"
-  priority = 0.5
-  filename = "sitemap.xml"
 
 [params]
 # search_engine = true
