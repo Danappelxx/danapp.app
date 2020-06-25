@@ -6,6 +6,9 @@ title = "Dan Appel"
 enableEmoji = true
 theme = "pixyll"
 
+[taxonomies]
+  disableKinds = ["taxonomy", "term"]
+
 [params]
 # search_engine = true
   twitter_username = "dan_appel"
