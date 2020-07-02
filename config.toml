@@ -15,3 +15,6 @@ theme = "pixyll"
   github_username = "danappelxx"
   linkedin_username = "dvappel"
   email = "dan@danapp.app"
+
+[markup.goldmark.renderer]
+  unsafe= true
