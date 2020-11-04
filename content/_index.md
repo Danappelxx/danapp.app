@@ -4,7 +4,9 @@ featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 description: "Home page of Dan Appel"
 ---
 
-CS at UC Irvine. Currently interning at Visa. Still under construction!
+CS at UC Irvine. Currently interning at Apple. Undergraduate researcher at [Mars Research](https://mars-research.github.io).
+
+Recent publications: [RedLeaf: Isolation and Communication in a Safe Operating System](https://www.usenix.org/conference/osdi20/presentation/narayanan-vikram); [My Bachelor's Thesis](https://www.ics.uci.edu/~aburtsev/doc/appel-bs-thesis.pdf).
 
 <div class="social-links">
     <a href='/index.xml'>
