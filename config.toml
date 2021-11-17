@@ -17,4 +17,4 @@ theme = "pixyll"
   email = "dan@danapp.app"
 
 [markup.goldmark.renderer]
-  unsafe = true
+  unsafe= true
