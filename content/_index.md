@@ -12,7 +12,7 @@ Recent publications:
 
 - [Isolation in Rust: What is Missing?](https://mars-research.github.io/doc/plos21/plos21-rust-isolation.pdf)
 - [RedLeaf: Isolation and Communication in a Safe Operating System](https://www.usenix.org/conference/osdi20/presentation/narayanan-vikram)
-- [Bachelor's Thesis](https://www.ics.uci.edu/~aburtsev/doc/appel-bs-thesis.pdf)
+- Bachelor's Thesis: [Inter-Process Communication in a Safe Kernel](/pub/thesis.pdf)
 
 <div class="social-links">
     <a href='/index.xml'>
