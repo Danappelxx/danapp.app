@@ -4,11 +4,11 @@ featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 description: "Home page of Dan Appel"
 ---
 
-CS at UC Irvine. Incoming distributed systems engineer at Apple.
+Software Engineer at Apple working on distributed systems.
 
-Previously: Intern at Apple, Visa ; Research Assistant at [Mars Research](https://mars-research.github.io).
+Previously: Intern at Apple, Visa ; Research Assistant at [Mars Research group at UCI](https://mars-research.github.io).
 
-Recent publications:
+Publications:
 
 - [Isolation in Rust: What is Missing?](https://mars-research.github.io/doc/plos21/plos21-rust-isolation.pdf)
 - [RedLeaf: Isolation and Communication in a Safe Operating System](https://www.usenix.org/conference/osdi20/presentation/narayanan-vikram)
